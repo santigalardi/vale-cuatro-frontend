@@ -70,3 +70,4 @@ Thumbs.db
 
 # SvelteKit (si se mezcla algo raro)
 .svelte-kit
+.env
