@@ -1,3 +1,5 @@
+// PlayerScore.tsx
+
 interface PlayerScoreProps {
   playerName: string;
   score: number;
